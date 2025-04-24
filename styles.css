@@ -1,0 +1,29 @@
+.color-example {
+    color: red;
+    background-color: #f0e68c;
+    border: 2px solid blue;
+}
+
+.header-example {
+    font-size: 36px;
+    font-family: 'Verdana', sans-serif;
+    color: darkred;
+}
+
+.list-example {
+    list-style-type: square;
+    color: darkgreen;
+}
+
+.text-example {
+    font-family: 'Georgia', serif;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+.div-example {
+    background-color: #add8e6;
+    border: 3px dashed navy;
+    padding: 10px;
+}
